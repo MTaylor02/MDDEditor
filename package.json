@@ -1,0 +1,8 @@
+{
+  "name": "mddeditor",
+  "version": "1.0.0",
+  "description": "Simple open-book style markdown editor",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 0"
+  }
+}
