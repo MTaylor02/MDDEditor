@@ -25,7 +25,11 @@ body {
 
 #markdown-input {
   width: 100%;
+codex/create-markdown-editing-application-hqlthj
+  height: calc(100% - 3rem);
+=======
   height: 100%;
+main
   border: none;
   resize: none;
   outline: none;
@@ -60,7 +64,18 @@ body {
   height: 100%;
   background: #ccc;
 }
-
 .page {
   position: relative;
 }
+codex/create-markdown-editing-application-hqlthj
+.save-btn {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  padding: 0.5rem 1rem;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+=======
+
